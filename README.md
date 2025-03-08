@@ -2,25 +2,17 @@
 
 ![Header Banner](https://img.shields.io/badge/-%F0%9F%9A%80%20Building%20the%20digital%20future%2C%20one%20elegant%20solution%20at%20a%20time-black?style=for-the-badge)
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6E56CF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6E56CF&width=435&lines=Software+Engineer;Full-Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 
 ## 🧠 About Me
 
 Turning complex problems into elegant solutions is what drives me. I blend technical expertise with creative thinking to build applications that make a difference. When I'm not coding, you'll find me exploring emerging technologies and continuously expanding my digital toolkit.
 
-<div align="left">
-
 [![Website](https://img.shields.io/badge/Portfolio-petermatama.co.ke-5DFDCB?style=for-the-badge&logo=safari&logoColor=white)](https://www.petermatama.co.ke)
 [![Email](https://img.shields.io/badge/Email-peter24matama@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peter24matama@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-matama-a81403206/)
 
-</div>
-
 ## 🛠️ Tech Ecosystem
-
-<div align="left">
 
 ### Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26)
@@ -36,36 +28,19 @@ Turning complex problems into elegant solutions is what drives me. I blend techn
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=F05032)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
 
-</div>
-
 ## 📊 Contribution Insights
+### 📌 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatamaPeter&layout=compact&theme=tokyonight&hide_border=true)  
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatamaPeter&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+### 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatamaPeter&theme=tokyonight&hide_border=true)  
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatamaPeter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Peter's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatamaPeter&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 🔭 Current Focus
 
-- Building responsive web applications with React
-- Exploring serverless architecture
-- Enhancing user experiences through intuitive design
-- Optimizing database performance
+- Building responsive web applications with React  
+- Exploring serverless architecture  
+- Enhancing user experiences through intuitive design  
+- Optimizing database performance  
 
-## 🌟 Featured Projects
-<div align="left">
-  <a href="https://github.com/MatamaPeter?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-4c71f2?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
-  </a>
-</div>
-
----
-
-
-<div align="left">
-  <i>"Code is poetry written for machines, but read by humans."</i>
-</div>
+*"Code is poetry written for machines, but read by humans."*
