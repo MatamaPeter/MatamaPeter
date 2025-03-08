@@ -15,8 +15,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=petermatama&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petermatama&layout=compact&theme=radical)
+![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatamaPeter&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatamaPeter&layout=compact&theme=radical)
 
 
 📌 _More projects at [GitHub Repos](https://github.com/MatamaPeter?tab=repositories)_  
